@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "40012037485",
+    "firebase_url": "https://datawebiot-default-rtdb.firebaseio.com",
+    "project_id": "datawebiot",
+    "storage_bucket": "datawebiot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40012037485:android:775f7dbf250da755c4ee64",
+        "android_client_info": {
+          "package_name": "com.client.findjob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40012037485-b9otq4ntgl2nm15aldmom9ncrvp9uhb7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.client.findjob",
+            "certificate_hash": "b6a6da84b42f98cb58bed066cfc4f28d5167ba89"
+          }
+        },
+        {
+          "client_id": "40012037485-96ddorq246j63pkbppq2j5kovglk4qp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrxTpZxyfVf1DU1ZwfvLwnODKfjAWa-JM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40012037485-96ddorq246j63pkbppq2j5kovglk4qp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
